@@ -1,0 +1,34 @@
+body{
+    background-color:whitesmoke;
+}
+h3{
+    color: brown;
+    
+}
+.header{
+    font-size: 50px;
+    font-family: Calibri;
+    color: coral;
+}
+p2{
+    font-size: 20px;
+    color:violet;
+    text-align: justify;
+}
+p3 strong
+    color: cadetblue;
+}
+p3 strong.bold{
+    color: brown;
+}
+.uppercase{
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px blue;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+ul li{
+    color: black;
+    font-size: 30px;
+}
